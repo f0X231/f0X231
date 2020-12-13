@@ -8,7 +8,6 @@ Hi, I'm [Apichai Siripitakchai!], a passionate self-taught Full Stack Web Develo
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning NextJS & flutter; 
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 
 **Languages and Tools:**  
 
